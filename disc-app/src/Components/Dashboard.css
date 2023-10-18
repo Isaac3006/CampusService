@@ -1,0 +1,18 @@
+.mid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.top {
+    background-color: #B3A369;
+}
+.bop {
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+    max-width: 30%;
+    font-family: 'Heebo', sans-serif;
+    margin: auto;
+}

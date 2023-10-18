@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #B3A369;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    
+}
+
+.title {
+    font-size: 60px;
+    color:#003057;
+    margin-top: 3%;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4%;
+    font-family: 'Heebo', sans-serif;
+}
+
+.description {
+    max-width: 62%;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    padding: 25px 25px 35px;
+    background-color: #B3A369;
+    font-family: 'Heebo', sans-serif;
+    text-align: center;
+
+}
+
+.btn {
+    background-color: #003057;
+    font-size: 17px;
+    padding: 8px 8px 8px 8px;
+}
